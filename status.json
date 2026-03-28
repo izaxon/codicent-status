@@ -1,7 +1,12 @@
 {
-  "status": "Partial Outage",
-  "last_checked": "2026-03-28T08:40:04Z",
+  "status": "Operational",
+  "last_checked": "2026-03-28T10:11:58Z",
   "history": [
+    {
+      "status": "Operational",
+      "timestamp": "2026-03-28T10:11:58Z",
+      "message": "All systems operational"
+    },
     {
       "status": "Partial Outage",
       "timestamp": "2026-03-28T08:40:04Z",
