@@ -1,7 +1,12 @@
 {
-  "status": "Operational",
-  "last_checked": "2026-08-23T03:02:17Z",
+  "status": "Degraded Performance",
+  "last_checked": "2026-09-10T16:17:35Z",
   "history": [
+    {
+      "status": "Degraded Performance",
+      "timestamp": "2026-09-10T16:17:35Z",
+      "message": "Unexpected response from service (HTTP 000000)"
+    },
     {
       "status": "Operational",
       "timestamp": "2026-08-23T03:02:17Z",
