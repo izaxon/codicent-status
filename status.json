@@ -1,7 +1,12 @@
 {
-  "status": "Partial Outage",
-  "last_checked": "2026-10-24T22:16:33Z",
+  "status": "Operational",
+  "last_checked": "2026-10-24T22:28:21Z",
   "history": [
+    {
+      "status": "Operational",
+      "timestamp": "2026-10-24T22:28:21Z",
+      "message": "All systems operational"
+    },
     {
       "status": "Partial Outage",
       "timestamp": "2026-10-24T22:16:33Z",
@@ -246,11 +251,6 @@
       "status": "Partial Outage",
       "timestamp": "2026-03-09T22:37:24Z",
       "message": "Service returned an error (HTTP 523)"
-    },
-    {
-      "status": "Operational",
-      "timestamp": "2026-02-24T15:47:00Z",
-      "message": "All systems operational"
     }
   ]
 }
