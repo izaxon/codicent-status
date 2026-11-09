@@ -1,7 +1,12 @@
 {
-  "status": "Operational",
-  "last_checked": "2026-11-07T23:56:48Z",
+  "status": "Partial Outage",
+  "last_checked": "2026-11-09T19:09:27Z",
   "history": [
+    {
+      "status": "Partial Outage",
+      "timestamp": "2026-11-09T19:09:27Z",
+      "message": "Service returned an error (HTTP 521)"
+    },
     {
       "status": "Operational",
       "timestamp": "2026-11-07T23:56:48Z",
@@ -246,11 +251,6 @@
       "status": "Operational",
       "timestamp": "2026-03-21T17:28:35Z",
       "message": "All systems operational"
-    },
-    {
-      "status": "Partial Outage",
-      "timestamp": "2026-03-21T17:13:09Z",
-      "message": "Service returned an error (HTTP 521)"
     }
   ]
 }
