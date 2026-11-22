@@ -1,7 +1,12 @@
 {
-  "status": "Operational",
-  "last_checked": "2026-11-16T18:51:24Z",
+  "status": "Partial Outage",
+  "last_checked": "2026-11-22T02:52:15Z",
   "history": [
+    {
+      "status": "Partial Outage",
+      "timestamp": "2026-11-22T02:52:15Z",
+      "message": "Service returned an error (HTTP 523)"
+    },
     {
       "status": "Operational",
       "timestamp": "2026-11-16T18:51:24Z",
@@ -246,11 +251,6 @@
       "status": "Operational",
       "timestamp": "2026-03-30T17:07:41Z",
       "message": "All systems operational"
-    },
-    {
-      "status": "Degraded Performance",
-      "timestamp": "2026-03-30T16:40:41Z",
-      "message": "Unexpected response from service (HTTP 000000)"
     }
   ]
 }
