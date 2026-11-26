@@ -1,7 +1,12 @@
 {
-  "status": "Degraded Performance",
-  "last_checked": "2026-11-26T13:37:45Z",
+  "status": "Operational",
+  "last_checked": "2026-11-26T13:45:05Z",
   "history": [
+    {
+      "status": "Operational",
+      "timestamp": "2026-11-26T13:45:05Z",
+      "message": "All systems operational"
+    },
     {
       "status": "Degraded Performance",
       "timestamp": "2026-11-26T13:37:45Z",
@@ -246,11 +251,6 @@
       "status": "Degraded Performance",
       "timestamp": "2026-04-25T23:45:32Z",
       "message": "Unexpected response from service (HTTP 000000)"
-    },
-    {
-      "status": "Operational",
-      "timestamp": "2026-04-10T20:17:13Z",
-      "message": "All systems operational"
     }
   ]
 }
